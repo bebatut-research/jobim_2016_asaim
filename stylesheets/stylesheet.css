@@ -164,7 +164,9 @@ a.button span {
 #view-on-github {
   margin-right: 0;
 }
-
+#download-pdf span {
+  background: transparent url(../images/Adobe-PDF-Logo.jpg) 12px 50% no-repeat;
+}
 code, pre {
   margin-bottom: 30px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
